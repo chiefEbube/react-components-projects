@@ -126,13 +126,13 @@ Submit:
 
 A successful submission should:
 
-[X] Use Tailwind CSS exclusively
-[X] Properly style the App component
-[X] Properly style the About component
-[X] Properly style the Projects component
-[X] Properly style the Skills component
-[X] Be responsive on different screen sizes
-[X] Demonstrate understanding of Tailwind utility classes
-[X] Be pushed to GitHub before the deadline
+- [x] Use Tailwind CSS exclusively
+- [x] Properly style the App component
+- [x] Properly style the About component
+- [x] Properly style the Projects component
+- [x] Properly style the Skills component
+- [x] Be responsive on different screen sizes
+- [x] Demonstrate understanding of Tailwind utility classes
+- [x] Be pushed to GitHub before the deadline
 
 Good luck and have fun exploring Tailwind CSS! 
